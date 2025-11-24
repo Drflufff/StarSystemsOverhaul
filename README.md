@@ -22,3 +22,5 @@ Trello Board:
 This Addon Requires 1 additional System to work
 
 - https://github.com/oninoni/startrekmodules
+
+also if copilot writes my commit messages ONE MORE TIME IMA FLIP HOW DO I TURN IT OF PELASE STOP
