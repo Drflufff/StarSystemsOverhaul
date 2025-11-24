@@ -1,2 +1,24 @@
 # StarSystemsOverhaul
 Overhaul of voids startrek system overhaul
+this make it from health based props to interfaces and repair nodes
+this should also make this work well but we will see
+
+
+You can freely use this content for your server. But please consider contributing your additional content, to create a more complete Star Trek Experience for the whole world to enjoy!
+- Redistribution outside of usage on a server, is not permitted.
+
+This Addon was developed as an API for the Intrepid-Class Gmod Map, but can be used to create almost any Star Trek Experience.
+
+Additional Modules:
+- https://github.com/oninoni/startrekmodules_sweps
+- https://github.com/oninoni/startrekmodules_transporter
+- https://github.com/oninoni/startrekmodules_turbolift
+- https://github.com/oninoni/startrekmodules_world
+- https://github.com/oninoni/startrekmodules_engineering
+
+Trello Board:
+- https://trello.com/b/OXe7kwID/star-trek-modules
+
+This Addon Requires 1 additional System to work
+
+- https://github.com/oninoni/startrekmodules
