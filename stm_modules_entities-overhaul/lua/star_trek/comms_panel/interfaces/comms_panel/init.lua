@@ -89,8 +89,8 @@ function SELF:Open(ent)
             if StarTrekEntities and StarTrekEntities.Comms and StarTrekEntities.Comms.GetHealthPercent then
                 hp = math.floor(StarTrekEntities.Comms:GetHealthPercent() or 0)
             end
-            local note = (hp < 50) and " - Repair immedate repair required" or " - System within acceptable parameters"
-            Star_Trek.Logs:AddEntry(self.Ent, ply, string.format("Diagnostics complete: System integeraty %d%%%s", hp, note), Star_Trek.LCARS.ColorBlue)
+            local note = (hp < 50) and " - Repair immediate repair required" or " - System within acceptable parameters"
+            Star_Trek.Logs:AddEntry(self.Ent, ply, string.format("Diagnostics complete: System integrity %d%%%s", hp, note), Star_Trek.LCARS.ColorBlue)
         end)
     end)
 
